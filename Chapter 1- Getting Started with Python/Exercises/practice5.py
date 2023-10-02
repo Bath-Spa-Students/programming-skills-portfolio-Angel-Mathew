@@ -1,0 +1,1 @@
+#Question 5 in practice worksheet:Write four strings in different variables and print the output as one string 
