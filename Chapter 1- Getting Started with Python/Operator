@@ -1,0 +1,4 @@
+#dict=({name:orange,name1:apple,})
+fname="Angel"
+sname="Mathew"
+print("Angel" + "Mathew")
