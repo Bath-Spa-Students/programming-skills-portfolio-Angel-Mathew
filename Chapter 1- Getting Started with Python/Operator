@@ -3,3 +3,6 @@
 #sname="Mathew"
 #print("Angel" + "Mathew_"+"Code lab student_"+"creative computing student_"+"year 1")
 #print("W\n","X\n","Y\n","Z\t")
+print(f'Hello World')
+name="Angel"
+print(f'Hello{name}.')
