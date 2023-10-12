@@ -1,2 +1,5 @@
 #Question 5 in practice worksheet:Write four strings in different variables and print the output as one string 
-print("My_" "name_" "is_" "Angel" )
+a="My_"
+b="is_"
+c="Angel_Sara_Mathew"
+print(a+b+c)
