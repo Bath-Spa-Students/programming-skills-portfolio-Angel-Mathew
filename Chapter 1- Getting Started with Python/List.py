@@ -6,11 +6,11 @@
 #numbers[1]=8
 #print(numbers)
 #Concatenation
-#list_1=[8,4,5,6,7]
-#list_2=[2,0,4,8,5]
-#list=list_1+list_2
-#print(list)
+list_1=[8,4,5,6,7]
+list_2=[2,0,4,8,5]
+list=list_1+list_2
+print(list)
 #list slicing-to  use one part of list
-new_list=[1,2,3,4,5]
-result=new_list[3:5]
-print(result)
+#new_list=[1,2,3,4,5]
+#result=new_list[3:5]
+#print(result)
