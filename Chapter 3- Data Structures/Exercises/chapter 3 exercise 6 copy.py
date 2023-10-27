@@ -15,7 +15,7 @@ print(Names)
 print(Names[0]+"_you are invited to come for a small dinner on 21 October 2023, at 8:00pm,at Olive Rose Theodore's house")
 print(Names[1]+"_you are invited to come for a small dinner on 21 October 2023, at 8:00pm,at Olive Rose Theodore's house")
 del(Names[0])
-del(Names[1])
+del(Names[0])
 print(Names)
 
 
