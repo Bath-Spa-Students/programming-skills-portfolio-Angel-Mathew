@@ -1,4 +1,5 @@
-#Question 3 in practice worksheet:You need to make a program for a leader board.The program needs to output the numbers 1 to 9 each on a separate line followed by a dot
+#Question 3 in practice worksheet:You need to make a program for a leader board.The program needs to output the numbers 1 to 9 each on a separate 
+#line followed by a dot
 Leader1=input("Enter leader1.'s name:")
 Leader2=input("Enter leader2.'s name:")
 Leader3=input("Enter leader3.'s name:")
